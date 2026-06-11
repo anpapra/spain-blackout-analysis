@@ -8,6 +8,10 @@ This project investigates variations in night sky brightness recorded by a netwo
 The analysis combines photometer measurements, geospatial filtering, time-series processing, and visualization to study the impact of artificial light reduction on observed sky brightness.
 </p>
 
+<p>
+NOTE: The device, credentials and database details have been anonymised.
+</p>
+
 <h2>Features</h2>
 
 <ul>
