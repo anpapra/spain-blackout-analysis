@@ -1,4 +1,4 @@
-<h1>Night Sky Brightness Analysis During the Spain–Portugal Blackout (28–29 April 2025)</h1>
+<h1>Night Sky Brightness Analysis During the Spain Blackout (28–29 April 2025)</h1>
 
 <p>
 This project investigates variations in night sky brightness recorded by a network of ground-based photometers during the large-scale electrical blackout that affected Spain and Portugal on 28–29 April 2025.
