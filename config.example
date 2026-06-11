@@ -1,9 +1,10 @@
 
 
-VARIABLE_0 =
-VARIABLE_1 = 
-VARIABLE_2 = 
-LAT_MIN = 
-LAT_MAX = 
-LON_MIN = 
-LON_MAX = 
+VARIABLE_0 = 1 # example value
+VARIABLE_1 = 1 # example value
+VARIABLE_2 = 1 # example value
+LAT_MIN = 36.0000
+LAT_MAX = 43.7939
+LON_MIN = -9.25
+LON_MAX = 3.3219
+
